@@ -1097,18 +1097,18 @@ Une capture seule sans explication ne permet pas de justifier correctement le tr
 
 **Les améliorations suivantes peuvent être réalisées en bonus** :
 
-- Ansible Vault ;
-- Azure Key Vault ;
+- **Ansible Vault** ;
+- **Azure Key Vault** ;
 - intégration réseau privée ;
-- VNet Integration ;
-- Private Endpoint ;
-- CI/CD avec GitHub Actions ;
+- **VNet** Integration ;
+- **Private Endpoint** ;
+- **CI/CD** avec **GitHub Actions** ;
 - tests automatiques ;
-- HTTPS personnalisé ;
+- **HTTPS** personnalisé ;
 - nom de domaine personnalisé ;
-- monitoring avec Application Insights ;
-- plusieurs environnements Terraform ;
-- variables Terraform par environnement.
+- monitoring avec **Application Insights** ;
+- plusieurs environnements **Terraform** ;
+- variables **Terraform** par environnement.
 
 ---
 
