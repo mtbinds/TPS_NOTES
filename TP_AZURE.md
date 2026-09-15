@@ -1262,6 +1262,6 @@ ansible-playbook -i inventory.ini deploy.yml
 4. compressez le projet si demandé ;
 5. déposez le travail sur Google Classroom.
 
-> **Google Classroom : [Accéder au dépôt du TP](https://classroom.google.com/)**
+> **Google Classroom : [Accéder au dépôt du TP](https://classroom.google.com/c/ODg1MTMyMTIxMTMz?cjc=6ijgykiq)**
 
 **Date limite : 15/09/23h59**
